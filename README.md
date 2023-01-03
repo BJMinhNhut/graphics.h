@@ -1,4 +1,5 @@
 # Instruction to install graphics.h on Windows
+I've met a lot of problems when install graphics.h, so I made this repository for people who need simple instruction for installing it.
 
 ## Set up
 ### Step 1
